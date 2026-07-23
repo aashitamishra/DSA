@@ -10,6 +10,8 @@ Output: [2,1,4,3]
 
 Explanation:
 
+<img width="230" height="118" alt="image" src="https://github.com/user-attachments/assets/ed57c0aa-6a51-4f0a-b16c-bf9bd9088d06" />
+
 
 
 
