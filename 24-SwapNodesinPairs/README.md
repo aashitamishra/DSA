@@ -26,6 +26,8 @@ Example 2:
 Input: head = [1,2], pos = 0
 Output: tail connects to node index 0
 Explanation: There is a cycle in the linked list, where tail connects to the first node.
+
+
 Example 3:
 
 
