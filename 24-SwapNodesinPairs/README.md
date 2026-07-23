@@ -7,6 +7,7 @@ Do not modify the linked list.
  
 
 Example 1:
+
 <img width="531" height="171" alt="image" src="https://github.com/user-attachments/assets/37e16e75-c033-42d7-a29e-a2ae783154ff" />
 
 
@@ -14,7 +15,10 @@ Example 1:
 Input: head = [3,2,0,-4], pos = 1
 Output: tail connects to node index 1
 Explanation: There is a cycle in the linked list, where tail connects to the second node.
+
+
 Example 2:
+
 <img width="201" height="105" alt="image" src="https://github.com/user-attachments/assets/ee56ee8a-d6fc-494b-9427-b826a70d70e6" />
 
 
@@ -23,6 +27,8 @@ Input: head = [1,2], pos = 0
 Output: tail connects to node index 0
 Explanation: There is a cycle in the linked list, where tail connects to the first node.
 Example 3:
+
+
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/7101bed5-56c6-4b6f-bb83-203eee49898a" />
 
 
