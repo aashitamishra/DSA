@@ -1,3 +1,5 @@
+#DFS APPROACH
+
 class TreeNode {
     int val;
     TreeNode left;
